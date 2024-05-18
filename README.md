@@ -11,9 +11,20 @@ https://drive.google.com/file/d/1gO86WO_bOWB4SBrzBVotUQlMscqwN5qY/view?usp=shari
 | [jpg723](https://github.com/jpg723) | [dasol729](https://github.com/dasol729) |
 
 ## 🛠️skills
-- react
-- typescript
-- styledcomponent
+### Environment
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>   
+
+### Development
+<img src="https://img.shields.io/badge/React-2E2E2E?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled components&logoColor=white"/>
+
+## 📺 주요 화면 구성 및 기능
+|**메인 페이지(가방추가)**|**날씨 정보 제공**|**친구관리**|
+|:---:|:---:|:---:|
+| <img width="329" src="https://github.com/trippack-voyage/voyage-web/assets/86431761/8111750e-4c1a-4640-bebd-864837ab6630"/> | <img width="329" src="https://github.com/trippack-voyage/voyage-web/assets/86431761/97b46e53-4065-4ffa-951c-9597b9809b48"/>  | <img width="329" src="https://github.com/trippack-voyage/voyage-web/assets/86431761/b88b5ba3-e5a4-40e5-a194-2778b13c1304"/> 
+
+|**짐관리(필수물품)**|**짐관리(추가물품)**|**짐도우미(GPT)**|  
+|:---:|:---:|:---:|
+| <img width="329" src="https://github.com/trippack-voyage/voyage-web/assets/86431761/1d663964-5f81-484b-acae-57c364beb623"/>   | <img width="329" src="https://github.com/trippack-voyage/voyage-web/assets/86431761/6b4ebf86-497a-431c-a57f-f12d1538e94e"/>     | <img width="329" src="https://github.com/trippack-voyage/voyage-web/assets/86431761/c4c2c84b-a777-40ac-9638-659eb30aa827"/>
   
 ## 💡What is VOYAGE?
 <img src=https://github.com/trippack-voyage/voyage-web/assets/86431761/693e0a46-5dad-4b5b-b559-7fd3df158be5/>
