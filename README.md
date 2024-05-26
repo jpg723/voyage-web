@@ -1,5 +1,5 @@
 # 📅함께, 쉽게, 똑똑하게 짐 싸는 방법 VOYAGE
-> **제 12회 동덕여자대학교 교내 소프트웨어 경신대회 우수상 수상작**<br/> **개발기간: 2023.09~2023.10**
+> **제 12회 동덕여자대학교 교내 소프트웨어 경진대회 우수상 수상작**<br/> **개발기간: 2023.09~2023.10**
 > 
 ## 🔗Link(시연영상 링크)
 https://drive.google.com/file/d/1gO86WO_bOWB4SBrzBVotUQlMscqwN5qY/view?usp=sharing
